@@ -25,7 +25,7 @@ This repository was initially made just for myself to keep track of various link
 [Hyper-V memory internals. Guest OS memory access](http://hvinternals.blogspot.com/2019/09/hyper-v-memory-internals-guest-os-memory-access.html)  
 [Hyper-V memory internals. EXO partition memory access](http://hvinternals.blogspot.com/2020/06/hyper-v-memory-internals-exo-partition.html)  
 [Windows Hyper-V Denial of Service Vulnerability in nested virtualization component (CVE-2020-0890)](http://hvinternals.blogspot.com/2020/09/hyper-v-nested-virtualization-dos.html)  
-[http://hvinternals.blogspot.com/2021/01/hyper-v-debugging-for-beginners-2nd.html](http://hvinternals.blogspot.com/2021/01/hyper-v-debugging-for-beginners-2nd.html)  
+[Hyper-V debugging for beginners. 2nd edition.](http://hvinternals.blogspot.com/2021/01/hyper-v-debugging-for-beginners-2nd.html)  
 
 
 ## 5 Days to Virtualization: A Series on Hypervisor Development (by Daax Rynd):
